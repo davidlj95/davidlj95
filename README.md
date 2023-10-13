@@ -26,7 +26,9 @@ I'm a software engineer who loves crafting any software kind (bonus points if I'
 
 > 👆 Tap on any stats group to expand them!
 
-> 🙏 Awesome stats thanks to @anuraghazra for [GitHub Readme Stats][github-readme-stats] and @HwangTaehyun for [GitHub Repository Contribution Stats][github-repo-contrib-stats]
+> 🙏 Awesome stats thanks to [@anuraghazra] for [GitHub Readme Stats] and [@HwangTaehyun] for [GitHub Repository Contribution Stats]
 
-[github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
-[github-repo-contrib-stats]: https://github.com/HwangTaehyun/github-repository-contribution-stats
+[@anuraghazra]: https://github.com/anuraghazra
+[GitHub Readme Stats]: https://github.com/anuraghazra/github-readme-stats
+[@HwangTaehyun]: https://github.com/HwangTaehyun
+[GitHub Repository Contribution Stats]: https://github.com/HwangTaehyun/github-repository-contribution-stats
