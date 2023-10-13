@@ -25,3 +25,8 @@ I'm a software engineer who loves crafting any software kind (bonus points if I'
 [recent-top-contribs-unlimited]: https://github-contributor-stats.vercel.app/api?username=davidlj95&bg_color=00000000&text_color=757a7f&title_color=38687f&border_color=38687f&hide_border=true&custom_title=Recent%20top%20open%20source%20contributions%20by%20repo
 
 > 👆 Tap on any stats group to expand them!
+
+> 🙏 Awesome stats thanks to @anuraghazra for [GitHub Readme Stats][github-readme-stats] and @HwangTaehyun for [GitHub Repository Contribution Stats][github-repo-contrib-stats]
+
+[github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
+[github-repo-contrib-stats]: https://github.com/HwangTaehyun/github-repository-contribution-stats
